@@ -8,7 +8,8 @@ Consistently writing down new projects to do and down below are my next three pr
  1. Habit Tracker
  2. Password Manager
  3. PIG
-    (P.S. these change every week)
+
+(P.S. these change every week)
 
 On the side, I am also taking a SOC Analyst L1 Certificate with TryHackMe to add to my credibility as a cybersecurity major. 
 
