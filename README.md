@@ -5,7 +5,7 @@ I'm Harshi, an Infomration Technology student majoring in cybersecurity based in
 I am currently re-learning python and I have found that I am quite interested in the language and want to learn more about it. 
 
 Consistently writing down new projects to do and down below are my next three programming projects I wish to add to my github; 
- 1. Habit Tracker
+ 1. Task Tracker
  2. Password Manager
  3. PIG
 
