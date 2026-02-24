@@ -6,10 +6,10 @@ I am currently re-learning python and I have found that I am quite interested in
 
 Consistently writing down new projects to do and down below are my next three programming projects I wish to add to my github; 
  1. Task Tracker
- 2. Password Manager
+ 2. Slot Machine
  3. PIG
 
-(P.S. these change every week)
+(P.S. these change every week - maybe)
 
 On the side, I am also taking a SOC Analyst L1 Certificate with TryHackMe to add to my credibility as a cybersecurity major. 
 
