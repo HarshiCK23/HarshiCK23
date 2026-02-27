@@ -4,10 +4,9 @@ I'm Harshi, an Infomration Technology student majoring in cybersecurity based in
 
 I am currently re-learning python and I have found that I am quite interested in the language and want to learn more about it. 
 
-Consistently writing down new projects to do and down below are my next three programming projects I wish to add to my github; 
- 1. Task Tracker
- 2. Slot Machine
- 3. PIG
+Consistently writing down new project(s) to do and down below are my next three programming projects I wish to add to my github; 
+ 1. Part 2 of building firewall
+ 2. Part 3 of building firewall
 
 (P.S. these change every week - maybe)
 
